@@ -1,0 +1,24 @@
+.interna_sobre {
+	color: #dd44a1;
+}
+.subtitulo-interno{
+	color: #dd44a1;
+}
+.missao_sobre {
+	padding-top: 60px;
+}
+
+.missao_sobre p {
+	color: #3b0352;
+	font-size: 18px;
+	line-height: 25px;
+	margin-bottom: 1em;
+	padding-right: 60px
+}
+
+.missao_sobre ul li {
+	color: #3b0352;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 18px;
+	line-height: 30px;
+}
